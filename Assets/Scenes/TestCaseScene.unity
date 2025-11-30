@@ -1082,7 +1082,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2d627951c53874b4faaf5283c81168e7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 18ecfc36351466343974e7e13de70b46, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1144,7 +1144,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 285371985}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
@@ -1157,7 +1157,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: x4108
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1902,7 +1902,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 477906514}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
@@ -1915,7 +1915,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: x1971
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2052,7 +2052,7 @@ MonoBehaviour:
   - {fileID: 898304044}
   - {fileID: 64073704}
   - {fileID: 1363511419}
-  currentZoneConfig: {fileID: 11400000, guid: 1be0a188101aa3a4b8843310741baf09, type: 2}
+  currentZoneConfig: {fileID: 11400000, guid: 1ffba447061bf6048bf6a9d9a89f47da, type: 2}
   zoneConfigPath: ZoneConfigs
   bronzeWheelSprite: {fileID: 21300000, guid: 0bf6ebd0daec5ec47963d3e9019d70a5, type: 3}
   silverWheelSprite: {fileID: 21300000, guid: 307ee1eef0052624ab90c7f4f3366d5d, type: 3}
@@ -2236,7 +2236,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8fa876a9a5839d247af2d8f3e2f4764b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 637c1484f25d60349a23a577bb3f0aab, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2445,7 +2445,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 39d9ae101b289a041870da4f68f2d47a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8fa876a9a5839d247af2d8f3e2f4764b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3021,7 +3021,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 627124523}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
@@ -3034,7 +3034,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: x3
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3993,7 +3993,7 @@ MonoBehaviour:
   devButton: {fileID: 1030810457}
   collectedItemsContainer: {fileID: 1565321120}
   collectedItemPrefab: {fileID: 8545406940576202456, guid: 6a34edc58c0cd344c8769c5dea42c7fd, type: 3}
-  enableDebugLogs: 1
+  enableDebugLogs: 0
 --- !u!225 &794749315
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -4167,7 +4167,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainCanvas: {fileID: 327110064}
-  enableDebugLogs: 1
+  enableDebugLogs: 0
   soundButton: {fileID: 1950681579}
   soundButtonImage: {fileID: 1950681581}
   mutedAlpha: 0.3
@@ -4239,7 +4239,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 858708071}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
@@ -4252,7 +4252,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: x3
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4576,7 +4576,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: x4
+  m_text: x5
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5459,7 +5459,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8fa876a9a5839d247af2d8f3e2f4764b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 03808ba93c636f04d920ed579f0e50b6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5507,7 +5507,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialState: 0
-  enableDebugLogs: 1
+  enableDebugLogs: 0
 --- !u!4 &1064127175
 Transform:
   m_ObjectHideFlags: 0
@@ -5580,7 +5580,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 39d9ae101b289a041870da4f68f2d47a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2d627951c53874b4faaf5283c81168e7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6242,7 +6242,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2d627951c53874b4faaf5283c81168e7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 18ecfc36351466343974e7e13de70b46, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7080,7 +7080,7 @@ MonoBehaviour:
   currentMultiplier: 1
   rewardContainer: {fileID: 346168319}
   rewardItemPrefab: {fileID: 8545406940576202456, guid: 6a34edc58c0cd344c8769c5dea42c7fd, type: 3}
-  enableDebugLogs: 1
+  enableDebugLogs: 0
 --- !u!4 &1395384302
 Transform:
   m_ObjectHideFlags: 0
@@ -7303,7 +7303,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: x243
+  m_text: x2
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7914,7 +7914,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 03808ba93c636f04d920ed579f0e50b6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 637c1484f25d60349a23a577bb3f0aab, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8725,7 +8725,7 @@ MonoBehaviour:
   safeZoneInterval: 5
   superZoneInterval: 30
   wheelController: {fileID: 478063388}
-  enableDebugLogs: 1
+  enableDebugLogs: 0
 --- !u!1 &1593332492
 GameObject:
   m_ObjectHideFlags: 0
@@ -8911,7 +8911,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.35
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -9050,7 +9050,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2d627951c53874b4faaf5283c81168e7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4ea4dea2c2c0c5b498e6f0691ee7f15d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9295,7 +9295,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1722881225}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
@@ -9308,7 +9308,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: x1679
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9554,7 +9554,7 @@ MonoBehaviour:
   masterVolume: 1
   musicVolume: 0.52
   sfxVolume: 1
-  enableDebugLogs: 1
+  enableDebugLogs: 0
   wheelSpinSound: {fileID: 8300000, guid: 9392cef67513359479daabb00ef40f6a, type: 3}
   wheelResultSound: {fileID: 8300000, guid: e5075fe732a41c74cb0f95676ad763c2, type: 3}
   rewardCollectedSound: {fileID: 8300000, guid: f51a134074fd60042812f01146d1ab74, type: 3}
@@ -10049,7 +10049,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: x791
+  m_text: x466
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

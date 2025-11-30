@@ -299,6 +299,7 @@ namespace WheelOfFortune.Core
             {
                 devPopup.ShowDeveloperPopup();
                 LogDebug("Developer popup shown");
+                PlayerPrefs.SetInt("CurrentZone", 1); // aceleyle koyduğum bir şey
             }
             else
             {
