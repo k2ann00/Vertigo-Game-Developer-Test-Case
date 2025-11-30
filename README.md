@@ -873,6 +873,8 @@ Sorular veya öneriler için:
 - **Developer:** Kaan Avdan
 - **Email:** [kaanavdan01@gmail.com](mailto:kaanavdan01@gmail.com)
 - **GitHub:** [github.com/k2ann00](https://github.com/k2ann00)
+- **Polygun Arena** AF7973E55ADDBE99
+- **Critical Strike** 74D8DB6B73E8995A
 
 ---
 
