@@ -28,7 +28,9 @@ Unity tabanlı çarkıfelek oyunu. Oyuncular çarkı çevirerek farklı ödülle
 
 ### Gameplay (Tüm Şansımı Kullandığım O Video)
 <div align="center">
-  <video src="SS/GamePlay.mp4" width="600" controls></video>
+  <a href="https://youtu.be/WALty31TmR8" target="_blank">
+  <img src="https://www.iconpacks.net/icons/1/free-video-icon-831-thumb.png" width="600"/>
+</a>
 </div>
 
 ### 4:3 Aspect Ratio
