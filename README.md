@@ -4,7 +4,8 @@ Unity tabanlı çarkıfelek oyunu. Oyuncular çarkı çevirerek farklı ödülle
 
 ## 📋 İçindekiler
 
-- [Geliştiriciden](#-geliştiriciden)
+- [Geliştiriciden](#-geliştiriciden-mesaj)
+- [Oyun İçi Görüntüler](#-oyun-içi-görüntüler)
 - [Özellikler](#-özellikler)
 - [Kurulum](#-kurulum)
 - [Proje Yapısı](#-proje-yapısı)
@@ -19,7 +20,44 @@ Unity tabanlı çarkıfelek oyunu. Oyuncular çarkı çevirerek farklı ödülle
 ---
 
 ## Geliştiriciden Mesaj
-**Bu README.md dosyası Claude Code agenti ile oluşturulmuştur.** Kod yazarken tabi ki AI'dan yardım aldım fakat bu sadece takılıp Unity Discussions, StackOverFlow, Reddit veye YouTube'da araştırıp da bulamadığım konularda yardım alarak devam etti. Namespaceler ile kodları tamamıyla ayırdım. Geliştirme sürecine başlamadan önce detaylı bir şekilde yapılacak şeyleri ChatGPT'yi mentorum olarak kullanarak ayarladığım için (Interface, Dosya yapısı, UI önerileri ...) sonradan ekstra büyük bir revize sürecim olmadı. Repoda commit olmama sebebi ise başlangıçta zaman zaman internet erişimim yoktu. Bu yüzden düzenli commitlere başlayamadım ve başlayamadığım için devam ettiremedim. Normalde Git Feature Workflow kullanarak çalışıyorum. her bir feature için branch açıp geliştirilen feature develop branchinde test edilir ve stabil versiyon mainde bulunur. 
+**Bu README.md dosyası Claude Code agenti ile oluşturulmuştur.** Kod yazarken tabi ki AI'dan yardım aldım fakat bu sadece takılıp Unity Discussions, StackOverFlow, Reddit veye YouTube'da araştırıp da bulamadığım konularda yardım alarak devam etti. Namespaceler ile kodları tamamıyla ayırdım. Geliştirme sürecine başlamadan önce detaylı bir şekilde yapılacak şeyleri ChatGPT'yi mentorum olarak kullanarak ayarladığım için (Interface, Dosya yapısı, UI önerileri ...) sonradan ekstra büyük bir revize sürecim olmadı. Repoda commit olmama sebebi ise başlangıçta zaman zaman internet erişimim yoktu. Bu yüzden düzenli commitlere başlayamadım ve başlayamadığım için devam ettiremedim. Normalde Git Feature Workflow kullanarak çalışıyorum. her bir feature için branch açıp geliştirilen feature develop branchinde test edilir ve stabil versiyon mainde bulunur.
+
+---
+
+## 📸 Oyun İçi Görüntüler
+
+### 4:3 Aspect Ratio
+
+<div align="center">
+  <img src="SS/4_3/1.png" alt="4:3 Screenshot 1" width="600"/>
+  <img src="SS/4_3/2.png" alt="4:3 Screenshot 2" width="600"/>
+  <img src="SS/4_3/3.png" alt="4:3 Screenshot 3" width="600"/>
+  <img src="SS/4_3/4.png" alt="4:3 Screenshot 4" width="600"/>
+</div>
+
+---
+
+### 16:9 Aspect Ratio
+
+<div align="center">
+  <img src="SS/16_9/1.png" alt="16:9 Screenshot 1" width="800"/>
+  <img src="SS/16_9/2.png" alt="16:9 Screenshot 2" width="800"/>
+  <img src="SS/16_9/3.png" alt="16:9 Screenshot 3" width="800"/>
+  <img src="SS/16_9/4.png" alt="16:9 Screenshot 4" width="800"/>
+</div>
+
+---
+
+### 20:9 Aspect Ratio
+
+<div align="center">
+  <img src="SS/20_9/1.png" alt="20:9 Screenshot 1" width="900"/>
+  <img src="SS/20_9/2.png" alt="20:9 Screenshot 2" width="900"/>
+  <img src="SS/20_9/3.png" alt="20:9 Screenshot 3" width="900"/>
+  <img src="SS/20_9/4.png" alt="20:9 Screenshot 4" width="900"/>
+</div>
+
+---
 
 ## ✨ Özellikler
 
@@ -825,9 +863,9 @@ List<RewardData> GetCollectedRewards()
 ## 👨‍💻 İletişim
 
 Sorular veya öneriler için:
-- **Developer:** [Kaan Avdan]
-- **Email:** [kaanavdan01@gmail.com]
-- **GitHub:** [https://github.com/k2ann00]
+- **Developer:** Kaan Avdan
+- **Email:** [kaanavdan01@gmail.com](mailto:kaanavdan01@gmail.com)
+- **GitHub:** [github.com/k2ann00](https://github.com/k2ann00)
 
 ---
 
