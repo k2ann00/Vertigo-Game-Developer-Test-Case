@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 706b5149479ca92489c4d0a4a8063b77, type: 3}
+  m_Name: Item_chestGold
+  m_EditorClassIdentifier: 
+  itemId: chest_gold
+  itemName: Gold Chest
+  itemType: 2
+  rarity: 3
+  icon: {fileID: 21300000, guid: 1935ea8dcb56d2542ae47d3f002bb34d, type: 3}
+  minAmount: 1
+  maxAmount: 2
+  availableFromZone: 16
+  availableUntilZone: 999
+  baseSpawnWeight: 15
+  sliceBackgroundColor: {r: 1, g: 0.84313726, b: 0, a: 1}

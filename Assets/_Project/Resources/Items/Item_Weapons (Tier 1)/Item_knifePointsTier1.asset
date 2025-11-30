@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 706b5149479ca92489c4d0a4a8063b77, type: 3}
+  m_Name: Item_knifePointsTier1
+  m_EditorClassIdentifier: 
+  itemId: knife_points
+  itemName: Knife Points
+  itemType: 3
+  rarity: 0
+  icon: {fileID: 21300000, guid: 32526029d1a2fe843bd05a2dcf30280a, type: 3}
+  minAmount: 1
+  maxAmount: 3
+  availableFromZone: 1
+  availableUntilZone: 15
+  baseSpawnWeight: 25
+  sliceBackgroundColor: {r: 0.4117647, g: 0.4117647, b: 0.4117647, a: 1}

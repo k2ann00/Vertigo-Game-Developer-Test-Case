@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41e03b30b8a0777408057cd7b4952515, type: 3}
+  m_Name: ZoneConfig_015
+  m_EditorClassIdentifier: 
+  zoneNumber: 15
+  wheelType: 1
+  isSafeZone: 1
+  isSuperZone: 0
+  isBombTestZone: 0
+  sliceCount: 8
+  bombCount: 0
+  availableItems:
+  - {fileID: 11400000, guid: 73615f17def3c8a47bc967f8f19a1a3f, type: 2}
+  - {fileID: 11400000, guid: 3827273475d9acc43bf76f08d2f00fbe, type: 2}
+  - {fileID: 11400000, guid: fb3dadc1266b8af4caa8c71a933585ed, type: 2}
+  - {fileID: 11400000, guid: b370c235cfa0ddb478a008d64b924251, type: 2}
+  - {fileID: 11400000, guid: cc098cc3e3063d643bade1f6e9b97ff9, type: 2}
+  - {fileID: 11400000, guid: 3db43fa6405acbb478769699d939d82c, type: 2}
+  - {fileID: 11400000, guid: 236c37a1ae7b37a4194a10de4b589f23, type: 2}
+  - {fileID: 11400000, guid: c5c15a3855c46984f9b6acc0dbf17859, type: 2}
+  cashMultiplier: 2.5
+  goldMultiplier: 1.75
+  bombIcon: {fileID: 21300000, guid: 03808ba93c636f04d920ed579f0e50b6, type: 3}

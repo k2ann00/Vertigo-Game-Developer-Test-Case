@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 706b5149479ca92489c4d0a4a8063b77, type: 3}
+  m_Name: Item_shotgunPointsTier3
+  m_EditorClassIdentifier: 
+  itemId: shotgun_points
+  itemName: Shotgun Points
+  itemType: 3
+  rarity: 2
+  icon: {fileID: 21300000, guid: 97bb873dab0bc7e4396edddd32c5de78, type: 3}
+  minAmount: 10
+  maxAmount: 20
+  availableFromZone: 16
+  availableUntilZone: 999
+  baseSpawnWeight: 14
+  sliceBackgroundColor: {r: 0.8039216, g: 0.36078432, b: 0.36078432, a: 1}

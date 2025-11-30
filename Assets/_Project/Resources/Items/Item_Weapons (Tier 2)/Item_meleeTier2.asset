@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 706b5149479ca92489c4d0a4a8063b77, type: 3}
+  m_Name: Item_meleeTier2
+  m_EditorClassIdentifier: 
+  itemId: tier2_melee
+  itemName: Combat Knife
+  itemType: 3
+  rarity: 1
+  icon: {fileID: 21300000, guid: 795f215700bc93b41873f46584468889, type: 3}
+  minAmount: 5
+  maxAmount: 10
+  availableFromZone: 6
+  availableUntilZone: 40
+  baseSpawnWeight: 18
+  sliceBackgroundColor: {r: 0.27450982, g: 0.50980395, b: 0.7058824, a: 1}

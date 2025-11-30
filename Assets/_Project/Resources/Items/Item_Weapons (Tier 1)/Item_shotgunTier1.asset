@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 706b5149479ca92489c4d0a4a8063b77, type: 3}
+  m_Name: Item_shotgunTier1
+  m_EditorClassIdentifier: 
+  itemId: tier1_shotgun
+  itemName: Basic Shotgun
+  itemType: 3
+  rarity: 0
+  icon: {fileID: 21300000, guid: a4614467292796e4a9f263c086c94806, type: 3}
+  minAmount: 3
+  maxAmount: 6
+  availableFromZone: 3
+  availableUntilZone: 35
+  baseSpawnWeight: 20
+  sliceBackgroundColor: {r: 0.6627451, g: 0.6627451, b: 0.6627451, a: 1}
