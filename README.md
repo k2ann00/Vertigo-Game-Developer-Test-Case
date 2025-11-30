@@ -4,6 +4,7 @@ Unity tabanlı çarkıfelek oyunu. Oyuncular çarkı çevirerek farklı ödülle
 
 ## 📋 İçindekiler
 
+- [Geliştiriciden](#-geliştiriciden)
 - [Özellikler](#-özellikler)
 - [Kurulum](#-kurulum)
 - [Proje Yapısı](#-proje-yapısı)
@@ -16,6 +17,9 @@ Unity tabanlı çarkıfelek oyunu. Oyuncular çarkı çevirerek farklı ödülle
 - [Geliştirme Notları](#-geliştirme-notları)
 
 ---
+
+## Geliştiriciden Mesaj
+**Bu README.md dosyası Claude Code agenti ile oluşturulmuştur.** Kod yazarken tabi ki AI'dan yardım aldım fakat bu sadece takılıp Unity Discussions, StackOverFlow, Reddit veye YouTube'da araştırıp da bulamadığım konularda yardım alarak devam etti. Namespaceler ile kodları tamamıyla ayırdım. Geliştirme sürecine başlamadan önce detaylı bir şekilde yapılacak şeyleri ChatGPT'yi mentorum olarak kullanarak ayarladığım için (Interface, Dosya yapısı, UI önerileri ...) sonradan ekstra büyük bir revize sürecim olmadı. Repoda commit olmama sebebi ise başlangıçta zaman zaman internet erişimim yoktu. Bu yüzden düzenli commitlere başlayamadım ve başlayamadığım için devam ettiremedim. Normalde Git Feature Workflow kullanarak çalışıyorum. her bir feature için branch açıp geliştirilen feature develop branchinde test edilir ve stabil versiyon mainde bulunur. 
 
 ## ✨ Özellikler
 
